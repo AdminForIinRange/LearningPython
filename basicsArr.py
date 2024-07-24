@@ -24,5 +24,6 @@ arr.count("bob") # returns the number of elements with the value "bob"
 
 arr.copy() # returns a copy of the array
 
+arr[0] = "hello" # changes the element at the specified index
 
 print(arr)
