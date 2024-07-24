@@ -12,6 +12,8 @@ def translate(phrase):
 
 print(translate("hello")) # prints: hgllg
 
+#print(translate(input("Enter a word"))) # prints: hgllg
+
 
 # basically if from Hello, teh for loop will index through the word "hello" so
 # 
