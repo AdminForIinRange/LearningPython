@@ -47,3 +47,10 @@ print(translate("hello")) # prints: hgllg
 #So translate at this stage (i = 1) is: translation = "hg" NEXT ITERATION OF PHRASE
 
 
+# i =
+#    
+# h: 0 ( translation = "h" )
+# e: 1 ( translation = "hg" )
+# l: 2
+# l: 3
+# o: 4
