@@ -1,3 +1,5 @@
+# pretty proud of this lol did it all by my self and out preformed the youtube vid
+
 correct = 1
 trys = 3
 
