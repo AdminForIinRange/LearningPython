@@ -9,11 +9,12 @@ class Student:
         """
         Prints the student's name, major, and GPA.
         """
-        print(self.name, "\n", self.major, "\n", self.gpa)
+        print(self.name, "\n", self.major, "\n", self.gpa ,"\n", self.is_active)
 
 
 # fix the code
-student1 = Student("exmaple", "example", "example", "example")
+student1 = Student("Jeff", "English", "3.5", "true")
+print(student1.name, student1.major, student1.gpa, student1.is_active)
 student1.displayInfo()  # displayInfo is a method of the student1 object
 student1.displayInfo()
 
